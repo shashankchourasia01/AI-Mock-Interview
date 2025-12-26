@@ -4,12 +4,12 @@
 **Project Title:** AI-Mock Interview Platform
 **Tagline:** A next-generation mock interview platform using React, Next.js, and Neon Database
 
-📖 Description
+<!-- 📖 Description -->
 ================
 
 The AI-Mock Interview Platform is a revolutionary platform designed to simulate real-world job interviews. With the help of cutting-edge technologies like React, Next.js, and Neon Database, this platform aims to provide a realistic and engaging experience for job seekers and interviewers alike. The platform's advanced AI-driven algorithms and machine learning capabilities enable it to analyze and provide personalized feedback to users, making it an ideal tool for anyone looking to improve their interview skills.
 
-✨ Features
+<!-- ✨ Features -->
 ================
 
 1. **AI-Driven Interview Simulation**: The platform uses AI to simulate real-world job interviews, providing a realistic and engaging experience for users.
@@ -23,7 +23,7 @@ The AI-Mock Interview Platform is a revolutionary platform designed to simulate 
 9. **Secure and Reliable**: The platform uses advanced security measures to ensure user data is secure and reliable.
 10. **Scalable Architecture**: The platform's architecture is designed to scale, allowing it to handle a large number of users and interviews.
 
-🧰 Tech Stack
+<!-- 🧰 Tech Stack -->
 ================
 
 | **Frontend** | **Backend** | **Tools** |
@@ -33,7 +33,7 @@ The AI-Mock Interview Platform is a revolutionary platform designed to simulate 
 | Redux | Express.js | Drizzle ORM |
 | | | Google Generative AI |
 
-📁 Project Structure
+<!-- 📁 Project Structure -->
 ================
 
 The project is structured into the following folders:
@@ -46,7 +46,7 @@ The project is structured into the following folders:
 * **middleware**: Contains middleware functions for the platform.
 * **globals**: Contains global CSS styles and variables.
 
-⚙️ How to Run
+<!-- ⚙️ How to Run -->
 ================
 
 1. **Setup**: Install dependencies by running `npm install` or `yarn install`.
@@ -54,15 +54,14 @@ The project is structured into the following folders:
 3. **Build**: Run `npm run build` or `yarn build` to build the platform.
 4. **Deploy**: Deploy the platform to a production environment using a deployment tool like Vercel or Netlify.
 
-🧪 Testing Instructions
+<!-- 🧪 Testing Instructions -->
 ================
 
 1. **Unit Tests**: Run `npm run test` or `yarn test` to run unit tests.
 2. **Integration Tests**: Run `npm run integration-test` or `yarn integration-test` to run integration tests.
 3. **E2E Tests**: Run `npm run e2e-test` or `yarn e2e-test` to run end-to-end tests.
 
-👤 Author
+<!-- 👤 Author -->
 ================
 
 This project is maintained by [Shashank Kumar Chourasia].
-
